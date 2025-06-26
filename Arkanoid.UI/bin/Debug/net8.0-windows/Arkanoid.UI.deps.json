@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Arkanoid.UI/1.0.0": {
+        "dependencies": {
+          "Arkanoid.Core": "1.0.0"
+        },
+        "runtime": {
+          "Arkanoid.UI.dll": {}
+        }
+      },
+      "Arkanoid.Core/1.0.0": {
+        "runtime": {
+          "Arkanoid.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arkanoid.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Arkanoid.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

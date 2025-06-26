@@ -1,0 +1,6 @@
+D:\2 курс\2 семестр\ООП\new-ark\Arkanoid\Arkanoid.Core\bin\Release\Arkanoid.Core.dll
+D:\2 курс\2 семестр\ООП\new-ark\Arkanoid\Arkanoid.Core\bin\Release\Arkanoid.Core.pdb
+D:\2 курс\2 семестр\ООП\new-ark\Arkanoid\Arkanoid.Core\obj\Release\Arkanoid.Core.csproj.AssemblyReference.cache
+D:\2 курс\2 семестр\ООП\new-ark\Arkanoid\Arkanoid.Core\obj\Release\Arkanoid.Core.csproj.CoreCompileInputs.cache
+D:\2 курс\2 семестр\ООП\new-ark\Arkanoid\Arkanoid.Core\obj\Release\Arkanoid.Core.dll
+D:\2 курс\2 семестр\ООП\new-ark\Arkanoid\Arkanoid.Core\obj\Release\Arkanoid.Core.pdb
